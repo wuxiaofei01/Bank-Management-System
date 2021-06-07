@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak("您有定期存款已到期")

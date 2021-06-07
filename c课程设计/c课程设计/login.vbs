@@ -1,0 +1,1 @@
+CreateObject("SAPI.SpVoice").Speak("请选择你要进行的操作，1用户登录，2管理员登录，3退出")
