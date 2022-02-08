@@ -1,1 +1,2 @@
-# Bank-Management-System
+**银行管理系统**
+admin.txt 为管理员账户文件（密码）
